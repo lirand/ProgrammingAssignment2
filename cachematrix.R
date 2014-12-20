@@ -1,7 +1,7 @@
-## The next functions are used in order to cache potentially time-consuming computations. 
+## The next functions are used to cache potentially time-consuming computations. 
 ## Instead of calculating the matrix inverstion everytime the user needs it, the inverse action is 
 ## happening only once and then cached. 
-
+ 
 
 ## This function creates a list of functions to:
 ## 1. Set the value of the matrix
